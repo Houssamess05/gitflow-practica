@@ -1,10 +1,10 @@
-Línia 1 - Houssam introducció
+Línia 1 - Alex introducció diferent
 Línia 2 - Houssam objectiu del projecte
 LINIA IGUAL 3 - Aquesta línia és idèntica
-Línia 4 - Houssam descripció tècnica
+Línia 4 - Alex arquitectura del sistema
 Línia 5 - Houssam tecnologies utilitzades
-Línia 6 - Houssam estructura del codi
+Línia 6 - Alex gestió de dades
 LINIA IGUAL 7 - Aquesta línia també és idèntica
-Línia 8 - Houssam proves realitzades
+Línia 8 - Alex resultats obtinguts
 Línia 9 - Houssam millores futures
-Línia 10 - Houssam conclusió final
+Línia 10 - Alex tancament del document
