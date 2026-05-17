@@ -1,1 +1,10 @@
-contingut dev 1 
+Línia 1 - Alex introducció diferent
+Línia 2 - Alex contextualització
+LINIA IGUAL 3 - Aquesta línia és idèntica
+Línia 4 - Alex arquitectura del sistema
+Línia 5 - Alex patrons de disseny
+Línia 6 - Alex gestió de dades
+LINIA IGUAL 7 - Aquesta línia també és idèntica
+Línia 8 - Alex resultats obtinguts
+Línia 9 - Alex referències
+Línia 10 - Alex tancament del document
