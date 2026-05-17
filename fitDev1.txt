@@ -1,1 +1,10 @@
-contingut dev 1 
+Línia 1 - Houssam introducció
+Línia 2 - Houssam objectiu del projecte
+LINIA IGUAL 3 - Aquesta línia és idèntica
+Línia 4 - Houssam descripció tècnica
+Línia 5 - Houssam tecnologies utilitzades
+Línia 6 - Houssam estructura del codi
+LINIA IGUAL 7 - Aquesta línia també és idèntica
+Línia 8 - Houssam proves realitzades
+Línia 9 - Houssam millores futures
+Línia 10 - Houssam conclusió final
